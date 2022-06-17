@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+h5 {
+    text-align: center
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin: right 6in;
+    Margin: left 1in;
+    font-size: x-large;
+}
+
+div.a {
+    text-indent: 20px;
+}
+
+div.b {
+    text-indent: 30px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+iframe {
+    display: inline-block;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+body {
+    background-image: url("http://cdn.shopify.com/s/files/1/0015/4832/0823/products/Bear_T_White_grande.png");
+}
+
+.parent {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #e4e4e4cc;
+}
